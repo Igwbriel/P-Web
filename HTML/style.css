@@ -43,7 +43,7 @@ border: 1px solid;
 
 button {
     background: var(--paragraph-color);
-    border-color: black;
+    border-color: white;
     border-radius: 2.8rem;
 
     height: 4.2rem;
